@@ -32,4 +32,3 @@ user asks.
   tags returned in step 2.
 - Do not ask the user to confirm this tag; it is their standing preference.
 - Mention the applied tag once, briefly, when reporting the new capsule.
-lll
